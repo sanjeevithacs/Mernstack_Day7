@@ -1,0 +1,10 @@
+/* .btn{
+    color: red;
+    background-color: aquamarine;
+} */
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
